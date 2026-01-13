@@ -68,7 +68,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharva-cell-web&theme=onedark&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Atharva-cell-web&theme=onedark&no-frame=true&margin-w=10" />
+
 </p>
 
 ---
@@ -82,11 +83,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-cell-web&theme=tokyonight" />
-</p>
 
 ---
 
