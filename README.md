@@ -68,7 +68,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Atharva-cell-web&theme=onedark&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Atharva-cell-web&theme=onedark&no-frame=true" />
+
 
 </p>
 
@@ -108,5 +109,5 @@
 ---
 
 <p align="center">
-  <b>⚡ "Learn fundamentals. Build real things. Stay interview‑ready."</b>
+  <b>⚡ "Learn fundamentals. Build real things."</b>
 </p>
