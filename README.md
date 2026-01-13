@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **3rd Year Computer Science Engineering Student**
+* 🎓 **Computer Science Engineering Student**
 * 💻 Focused on **Full Stack Development (MERN)** and **Core CS Fundamentals**
 * 🧠 Strong interest in **problem solving, DSA, and system thinking**
 * 🚀 Believe in using **software engineering to solve real‑world problems**
