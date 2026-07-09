@@ -71,12 +71,7 @@
 
 ---
 
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=Atharva-cell-web&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Atharva-cell-web&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
