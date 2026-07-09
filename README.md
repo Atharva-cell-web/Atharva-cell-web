@@ -70,8 +70,11 @@
 - Urban infrastructure management tool with interactive UI workflow and real-time alert mapping.
 
 ---
+### 📊 GitHub Activity
 
-
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-cell-web&theme=react-dark&hide_border=true&area=true" alt="Atharva's Contribution Graph" />
+</p>
 
 ---
 
