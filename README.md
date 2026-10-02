@@ -126,15 +126,6 @@ Information Technology Student | Java & Spring Boot Developer
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-cell-web&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"
-    alt="Atharva's GitHub Activity"
-  />
-</p>
 
 ---
 
