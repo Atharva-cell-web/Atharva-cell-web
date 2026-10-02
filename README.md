@@ -1,84 +1,144 @@
 <h1 align="center">Hi 👋, I'm Atharva Dhanaji Patil</h1>
-<h3 align="center">Information Technology Student | Java & Spring Boot Developer</h3>
+
+<h3 align="center">
+Information Technology Student | Java & Spring Boot Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vcenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;Building+Scalable+REST+APIs;TE+Connectivity+2026+Global+Finalist;Open+to+Remote+SDE+%2F+Backend+Internships" alt="Typing SVG" />
+  <b>Java • Spring Boot • Spring Security • REST APIs • JPA/Hibernate • PostgreSQL</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharva-patil-857680292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adpatil242@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🎓 About Me
+## 🎓 About Me
 
-- 🎓 **Information Technology Student** at PCET's NMIET, Pune (CGPA: 9.4+)
-- 💻 Specialized in **Java**, **Spring Boot**, **Spring Security (JWT)**, and **REST API Architecture**
-- 🚀 **TE Connectivity 2026 Global Finalist** for Predictive Scrap Analysis
-- 🏆 Ranked **Top 5,000 / 25,000+** in Microsoft Build With AI Hackathon
-- 🎯 Seeking **Remote / WFH Software Development & Backend Internships**
+- 🎓 Information Technology student at **PCET's NMIET, Pune**
+- 📚 **CGPA: 9.39/10**
+- ☕ Focused on **Java and Spring Boot backend development**
+- 🔐 Interested in **REST APIs, authentication, authorization, JPA/Hibernate and database-driven applications**
+- 🏆 **TE Connectivity 2026 Global Finalist** for Predictive Scrap Analysis
+- 🏅 Ranked among the **Top 5,000 out of 25,000+ participants** in Microsoft's Build With AI Hackathon
+- 🚀 Currently building projects and strengthening my **backend development and DSA fundamentals**
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-<p align="left">
-  <strong>Languages:</strong><br/>
+### Languages
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<p align="left">
-  <strong>Backend & Databases:</strong><br/>
+### Backend
+<p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
+
+### Databases
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<p align="left">
-  <strong>Frontend & Tools:</strong><br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+### Tools
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Featured Projects
 
-#### 🛡️ NutriCheckAI – AI-Powered Ingredient Safety Analyzer
-- **Tech Stack:** Java, Spring Boot, Spring Security (JWT), React.js, PostgreSQL, Gemini AI, Tess4J OCR
-- Developed full-stack secure application analyzing food and cosmetic safety profiles based on health conditions.
-- Engineered RESTful APIs, Spring Data JPA/Hibernate models, global exception handling, and OCR image parsing.
+### 🥦 NutriCheckAI — AI-Powered Ingredient Safety Analyzer
 
-#### 📊 Predictive Scrap Analysis Tool *(TE Connectivity Global Finalist)*
-- **Tech Stack:** Spring Boot, REST APIs, React.js, Python (ML Integration)
-- Developed REST backend and interactive data visualizations to analyze manufacturing scrap & root causes.
-- Built seamless data integration pipelines connecting ML prediction engines with full-stack UI.
+**Java • Spring Boot • Spring Security • JWT • PostgreSQL • JPA/Hibernate • Gemini AI**
 
-#### 🩺 AYUSH–ICD Assistant
-- **Tech Stack:** Full-Stack Web Application (Node.js, Express, MongoDB, React, Vercel/Render)
-- Engineered high-performance mapping engine converting AYUSH disease codes to ICD-11 standard.
-- Implemented debounced multi-field search and clean layered API architecture.
+- Built a secure backend for personalized ingredient safety analysis based on user profiles.
+- Developed REST APIs with JWT authentication, Spring Data JPA/Hibernate, DTOs and validation.
+- Integrated Gemini AI for ingredient analysis and image-based ingredient extraction.
+- Implemented analysis history, global exception handling and retry-based handling for external API failures.
 
-#### 🚰 Smart Drainage Monitoring System
-- **Tech Stack:** React.js, HTML5, CSS3, JavaScript
-- Urban infrastructure management tool with interactive UI workflow and real-time alert mapping.
+🔗 **[Live Demo](https://nutri-check-ai-blush.vercel.app/)**
 
 ---
-### 📊 GitHub Activity
+
+### 💰 FinTrack — Personal Finance & Budgeting Portal
+
+**Java • Spring Boot • Spring Security • JPA/Hibernate • PostgreSQL • Thymeleaf • Docker**
+
+- Built a personal finance application for managing expenses, budgets and monthly spending analytics.
+- Implemented Spring Security authentication with BCrypt password hashing and user-level authorization.
+- Developed expense CRUD, filtering, category-wise analytics and monthly spending trends using Spring Data JPA.
+- Containerized the application using Docker and deployed it with PostgreSQL.
+
+🔗 **[Live Demo](https://fintrack-portal.onrender.com/login)**
+
+---
+
+### 📊 Predictive Scrap Analysis Tool
+
+**Java • Spring Boot • REST APIs • JSON • Machine Learning Integration**
+
+- Developed REST APIs for communication between the application and predictive machine-learning model.
+- Integrated the prediction engine through API-based data exchange and JSON request/response handling.
+- Implemented prediction and visualization workflows for manufacturing scrap analysis.
+
+🏆 **TE Connectivity 2026 Global Finalist**
+
+---
+
+### 🩺 AYUSH–ICD Assistant
+
+**Node.js • Express.js • MongoDB • REST APIs**
+
+- Developed a web application for mapping AYUSH disease codes to the ICD-11 standard.
+- Implemented multi-field search and backend API workflows.
+- Built and deployed the application using a separate frontend and backend architecture.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **TE Connectivity 2026 Global Finalist** — Predictive Scrap Analysis
+- 🏅 **Top 5,000 / 25,000+** — Microsoft Build With AI Hackathon
+- 🥈 **2nd Place** — IT Department Project Competition
+- 🥈 **2nd Place** — Reignite Business Revival Competition
+- 🎯 **Qualified for Second Round** — Anveshana 2025 Innovation Competition
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-cell-web&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Atharva's Activity Graph" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-cell-web&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"
+    alt="Atharva's GitHub Activity"
+  />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-patil-857680292/">
@@ -90,5 +150,5 @@
 </p>
 
 <p align="center">
-  ⚡ <i>"Learn fundamentals. Build scalable real-world software."</i>
+  <i>Building backend systems, learning continuously, and improving one project at a time.</i>
 </p>
